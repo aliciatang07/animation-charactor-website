@@ -1,0 +1,26 @@
+#welcome-banner{
+text-align:center;
+background-image: url(http://s35.youmaker.com/other/2012/2-15/oth60884124faf1fe36bbd847079a44f37707c379ea0015.jpg);
+background-size: cover;
+}
+#profile-picture{
+	height:250px;
+	width: 300px;
+}
+#about-me{
+	text-align:center;
+	padding-left: 250px;
+	padding-right: 250px;
+   background: rgb(153, 204, 255);
+   	background: linear-gradient( rgb(153, 204, 255),white,rgb(153, 204, 255));
+	background: linear-gradient( #0101DF,white,#01DFD7);
+
+	
+}
+#my-experience{
+	background: linear-gradient( rgb(153, 204, 255),white,rgb(153, 204, 255));
+	padding-left: 250px;
+	padding-right: 250px;
+
+ 
+}
